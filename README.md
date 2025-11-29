@@ -5,7 +5,7 @@
 ## Acerca de la plantilla
 Este proyecto es una plantilla sencilla para desplegar aplicaciones PHP en Urra Hosting usando el panel Coolify. Está inspirado en la estructura de proyectos Python Flask, facilitando la transición y el desarrollo rápido.
 
-**Sitio Web Oficial:** [https://www.urrahost.app](https://www.urrahost.app)
+**Sitio Web Oficial:** [https://www.urrahosting.cl](https://www.urrahosting.cl)
 
 ## Estructura del Proyecto
 
